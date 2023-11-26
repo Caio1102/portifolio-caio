@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  font-size: 1em;
+  font-family: 'Courier New', monospace;
+  background: #000000;
+}
+
+h1 {
+  color: #37934f;
+  font-size: 2.5em;
+}
+
+h2 {
+  color: #37934f;
+  font-size: 2.0em;
+}
+
+
+h3 {
+  color: #63cb6f;
+  background: #000000;
+  padding: 5px;
+  width: 300px;
+  text-align: center;
+}
+
+img {
+  image-orientation: center;
+  image-rendering: auto;  
+}
